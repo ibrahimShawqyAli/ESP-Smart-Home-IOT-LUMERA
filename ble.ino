@@ -8,7 +8,7 @@
 WebSocketsClient webSocket;
 
 const char* ws_server = "192.168.1.108";///"192.168.1.108";  ///"192.168.30.100"
-const int ws_port = 8080;
+const int ws_port = 6000;
 const char* espId = "LM:";
 const char* pin_port = "I-R-21-19/";
 String bleName;
